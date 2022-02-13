@@ -1,1 +1,3 @@
-<h1>goal is to learn multiple type of sorting algorithm</h1>
+<h1>goal</h1>
+<h3>learn multiple type of sorting algorithm<h3>
+  
